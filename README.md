@@ -1,6 +1,10 @@
 # virtual-assistant-desktop 🧠🎙️
 A voice-controlled virtual assistant built in Python that can perform various desktop-related tasks such as searching Wikipedia, opening websites, telling the current time, and more. The assistant uses speech recognition and text-to-speech to interact with users in real time.
+## 🔍 Preview
 
+Here’s a screenshot of the Virtual Assistant in action:
+
+![Screenshot of Virtual Assistant](assets/assistant.jpg)
 ## 🔧 Features
 
 - Greets the user based on the time of day
